@@ -8,5 +8,5 @@ Learned the basics of HTML
 The structure of HTML
 
 ### Technologies Used
-html tags (<p>,<div>,<head>,<h1>,<strong>,<em>,<table>, etc.)
+html tags (p,div,head,h1,strong,em,table, etc.)
 Atom text editor
