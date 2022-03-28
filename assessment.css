@@ -1,0 +1,28 @@
+h2{
+  color: red;
+  font-variant: sans-serif;
+}
+
+table, th, td {
+  border: 1px solid;
+  text-align: center;
+}
+
+ table th{
+   color: purple;
+   font-weight: bold;
+ }
+
+ul{
+  list-style-type: square;
+}
+
+a:hover{
+  background-color: yellow;
+  text-decoration: none;
+}
+
+blockquote{
+  background-color: black;
+  
+}
